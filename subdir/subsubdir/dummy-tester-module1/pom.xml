@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>dummy</groupId>
-    <artifactId>dummy-tester</artifactId>
+    <artifactId>dummy-tester-subdir</artifactId>
     <version>1.1.15-SNAPSHOT</version>
   </parent>
   <groupId>dummy-tester-module1</groupId>
-  <artifactId>dummy-tester-module1</artifactId>
+  <artifactId>dummy-tester-module1-subdir</artifactId>
   <name>dummy-tester-module1</name>
   <description>dummy-tester-module1</description>
 </project>
